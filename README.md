@@ -7,5 +7,5 @@ This project uses single layer LSTM model for predicting next character in the t
 
 **Data Sources**  
   
-Product Descriptions from Sokoglam.com.
+Product Descriptions from [Sokoglam.com](www.sokoglam.com)
 Data can be found in the repository
