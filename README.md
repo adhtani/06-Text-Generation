@@ -1,4 +1,4 @@
-# LSTM Model for Next Character Prediction in Text  
+# LSTM Model for Next Character Prediction  
   
 **Introduction**  
 
