@@ -1,4 +1,4 @@
-# LSTM Model for Next Character Prediction  
+# LSTM Model for Text Generation
   
 **Introduction**  
 
